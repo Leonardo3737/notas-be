@@ -1,0 +1,11 @@
+# Arquivos de build
+/build/
+
+# Dependências instaladas
+/node_modules/
+
+# Arquivos de log e erro
+npm-debug.log
+yarn-error.log
+
+.env
